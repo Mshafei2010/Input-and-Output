@@ -44,6 +44,8 @@ print("Gender Type: ", type(gender))
 - **All input values printed on a single line separated by commas.**
 - **The data type of each input value.**
 
+## Example
+```
 Enter your Name: John
 Enter your Age: 30
 Enter your Height: 5.9
@@ -57,15 +59,12 @@ Name Type:  <class 'str'>
 Age Type:  <class 'int'>
 Height Type:  <class 'float'>
 Gender Type:  <class 'bool'>
-
+```
 
 ### Key Sections:
 - **Overview**: Summarizes what the script does.
-- **Code**: Includes the full script.
-- **Requirements**: Specifies Python 3.x.
-- **Running the Script**: Step-by-step guide to executing the script.
+- **Code**: Includes the full script.   
 - **Output**: Describes what to expect when running the script.
 - **Example**: Provides a sample run to illustrate how the script works.
-- **License and Contact**: Customize as needed for licensing and contact information.
 
 Adjust the content as necessary to better fit your project or add any additional information you find useful!
