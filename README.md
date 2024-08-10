@@ -38,11 +38,11 @@ print("Height Type: ", type(height))
 print("Gender Type: ", type(gender))
 ```
 ## Output
-# After running the script, you will see:
+#### After running the script, you will see:
 
-- **Each input value printed on a new line.
-- **All input values printed on a single line separated by commas.
-- **The data type of each input value.
+- **Each input value printed on a new line.**
+- **All input values printed on a single line separated by commas.**
+- **The data type of each input value.**
 
 Enter your Name: John
 Enter your Age: 30
