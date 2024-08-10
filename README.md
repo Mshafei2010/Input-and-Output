@@ -36,7 +36,7 @@ print("Name Type: ", type(name))
 print("Age Type: ", type(age))
 print("Height Type: ", type(height))
 print("Gender Type: ", type(gender))
-
+```
 ## Output
 # After running the script, you will see:
 
@@ -57,7 +57,6 @@ Name Type:  <class 'str'>
 Age Type:  <class 'int'>
 Height Type:  <class 'float'>
 Gender Type:  <class 'bool'>
-
 
 
 ### Key Sections:
